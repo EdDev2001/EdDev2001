@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdDev2001
-- 👀 I’m interested in Coding and wev development
+- 👀 I’m interested in Coding and Web Development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on others
 - 📫 How to reach me on facebook Ednel Lopez Padernal ang Gwapo HAHAHA
