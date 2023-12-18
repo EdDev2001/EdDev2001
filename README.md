@@ -2,12 +2,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MC-yS0cy7vLaPTE0km5pzJM1kg08GJiagg&usqp=CAU" alt="Image description">
 
 
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate Web developer from Philippines</h3>
 
 
-- 🔭 I’m currently working on **Simple Calculator**
-
-- 🌱 I’m currently learning **Bsit in Passi City College**
+- 🌱 I’m currently learning **Bsit in Passi City College A 3rd College Student**
 
 - 👨‍💻 All of my projects are available at [https://ed-dev2001.vercel.app/](https://ed-dev2001.vercel.app/)
 
