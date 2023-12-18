@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ednel Padernal</h1>
-<img src="https://www.pinterest.ph/pin/54606214225524098#imgViewer" alt="Image description">
+<img src="https://pin.it/2sFPTYG" alt="Image description">
 
 
 <h3 align="center">A passionate frontend developer from Philippines</h3>
