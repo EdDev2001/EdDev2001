@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ednel Padernal</h1>
+<img src="(https://ed-dev2001.vercel.app/images/ednel-removebg-preview.png)" alt="Image description">
+
+
 <h3 align="center">A passionate frontend developer from Philippines</h3>
+
 
 - 🔭 I’m currently working on **Simple Calculator**
 
