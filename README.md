@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ednel Padernal</h1>
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fkshwti4ihig11.gif&rdt=47563" alt="Image description">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MC-yS0cy7vLaPTE0km5pzJM1kg08GJiagg&usqp=CAU" alt="Image description">
 
 
 <h3 align="center">A passionate frontend developer from Philippines</h3>
