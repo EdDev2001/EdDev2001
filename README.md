@@ -76,26 +76,9 @@
 
 ---
 
-<!-- ================= PINNED PROJECTS ================ -->
-
-### 📌 Featured Projects  
-<p align="center">
-  <a href="https://github.com/EdDev2001/es6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddev2001&repo=es6&theme=react" />
-  </a>
-  <a href="https://github.com/EdDev2001/flutter-login-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eddev2001&repo=flutter-login-system&theme=react" />
-  </a>
-</p>
-
----
-
 <!-- ================= 3D CONTRIBUTION GRAPH ================ -->
 
 ### 🧊 3D Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EdDev2001/EdDev2001/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="900">
