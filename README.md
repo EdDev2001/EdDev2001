@@ -13,9 +13,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MC-yS0cy7vLaPTE0km5pzJM1kg08GJiagg&usqp=CAU" alt="Image description">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eddev2001&label=Profile%20Views&color=3FA9F5&style=flat" />
-</p>
 
 ---
 
