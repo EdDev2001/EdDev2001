@@ -115,19 +115,49 @@
 <!-- ================= STATS ================ -->
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eddev2001&layout=compact&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eddev2001&show_icons=true&theme=react" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddev2001&theme=react" />
 </p>
 
 ---
+### 💼 Featured Projects
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+#### 📘 SchoolMind  
+A school management system dashboard built with Svelte + Firebase.  
+🔗 **https://schoolmind.vercel.app/**  
+
+</td>
+<td align="center" width="50%">
+  
+#### 🟦 GradeGuru  
+A grading system using PHP + MySQL with automated calculations.  
+🔗 **https://github.com/EdDev2001/GradeGuru**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+#### 🤖 MuteAssist  
+A communication app for mute individuals using Flutter + Firebase.  
+🔗 **https://github.com/EdDev2001/MuteAssist**
+
+</td>
+<td align="center" width="50%">
+
+#### 🕹 Gamified Learning App  
+An educational game for basic education students using Flutter.  
+🔗 **https://github.com/EdDev2001/gamified-edu**
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   🚀 <strong>Thanks for visiting my profile — keep learning and keep building!</strong>
