@@ -1,7 +1,7 @@
 <!-- ================= HEADER WITH ANIMATED WAVE ================ -->
 
 <h1 align="center">
-  Hi there, I'm Ednel Padernal! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  Hi there, I'm Ednel Padernal! <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MC-yS0cy7vLaPTE0km5pzJM1kg08GJiagg&usqp=CAU" alt="Image description">
 </h1>
 
 <p align="center">
